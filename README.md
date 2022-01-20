@@ -6,7 +6,6 @@ Instalar las dependencias usando pipenv o ver el `Pipfile` para instalar una por
 ### Instalando con pipenv
 
 ```cmd
-# dependencias
 > pipenv sync
 > pipenv shell # este solo si no estas ya en la consola de pipenv
 ```
