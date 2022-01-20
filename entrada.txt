@@ -1,0 +1,9 @@
+172.14.14.14
+RRHH-16
+IT-32
+Gerencia-10
+Contabilidad-21
+WAN1-2
+WAN2-2
+WAN3-2
+WAN4-2
